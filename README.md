@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
