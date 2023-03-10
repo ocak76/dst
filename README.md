@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+YAML reformat (#7669)
