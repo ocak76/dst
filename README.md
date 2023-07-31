@@ -1,1 +1,1 @@
-fix val each epoch
+Improve Coral Edge TPU guide (#8160)
