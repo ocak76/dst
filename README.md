@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add missing Explorer docs reference pages (#7455)
