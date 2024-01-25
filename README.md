@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+YOLOv8 INT8 TFLite Inference Example (#7317)
