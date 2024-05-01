@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
