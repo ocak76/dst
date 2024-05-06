@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
